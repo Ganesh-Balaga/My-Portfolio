@@ -1,4 +1,4 @@
-# My-Portfolio-Task
+# My Portfolio
 
 ## output live : https://ganesh-balaga.github.io/My-Portfolio/
 
